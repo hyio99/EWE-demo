@@ -838,12 +838,21 @@ features
     margin-top: 0px;
   }
 }
+
+.information {  
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Cabin';
+  height: 1200px;
+  line-height: 200px;
+  background-image:url(../images/3174.jpg);
+  background-position: center;
+}
+
+
+
+
 /*
-
-
-
-
-
 
 
 */
@@ -883,6 +892,14 @@ features
   width: 100%;
   background-image:url(../images/banner.png);
   height: 205px;
+  background-color: white;
+  background-position: center;
+}
+
+#infoimage {
+  width: 100%;
+  background-image:url(../images/test.png);
+  height: 2400px;
   background-color: white;
   background-position: center;
 }
