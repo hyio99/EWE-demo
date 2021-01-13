@@ -899,7 +899,7 @@ features
 #infoimage {
   width: 100%;
   background-image:url(../images/test.png);
-  height: 2400px;
+  height: 2500px;
   background-color: white;
   background-position: center;
 }
@@ -1278,23 +1278,23 @@ pricing
 }
 
 .pricing-item.active .pricing-header .pricing-title {
-  color: #1900C3;
+  color: #1e1e1e;
 }
 
 .pricing-item.active .pricing-body .price-wrapper {
-  background-color: #1900C3;
+  background-color: #ff589e;
 }
 
 .pricing-item.active .pricing-body .price-wrapper .currency {
-  color: #1900C3;
+  color: #fff;
 }
 
 .pricing-item.active .pricing-body .price-wrapper .price {
-  color: #1900C3;
+  color: #fff;
 }
 
 .pricing-item.active .pricing-body .price-wrapper .period {
-  color: #1900C3;
+  color: #fff;
 }
 
 .pricing-item .pricing-header {
@@ -1308,7 +1308,7 @@ pricing
   font-weight: 500;
   font-size: 17px;
   letter-spacing: 0.25px;
-  color: #1900C3;
+  color: #1e1e1e;
   width: 180px;
   height: 40px;
   line-height: 40px;
@@ -1325,7 +1325,7 @@ pricing
   text-align: center;
   padding-top: 20px;
   padding-bottom: 13px;
-  background: #1900C3;
+  background: #8261ee;
   width: 80%;
   margin: auto;
   margin-bottom: 40px;
@@ -1367,7 +1367,7 @@ pricing
 }
 
 .pricing-item .pricing-body .list li.active {
-  color: #1900C3;
+  color: #7a7a7a;
   text-decoration: none;
 }
 
