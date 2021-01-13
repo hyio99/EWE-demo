@@ -1278,23 +1278,23 @@ pricing
 }
 
 .pricing-item.active .pricing-header .pricing-title {
-  color: #1e1e1e;
+  color: #1900C3;
 }
 
 .pricing-item.active .pricing-body .price-wrapper {
-  background-color: #ff589e;
+  background-color: #1900C3;
 }
 
 .pricing-item.active .pricing-body .price-wrapper .currency {
-  color: #fff;
+  color: #1900C3;
 }
 
 .pricing-item.active .pricing-body .price-wrapper .price {
-  color: #fff;
+  color: #1900C3;
 }
 
 .pricing-item.active .pricing-body .price-wrapper .period {
-  color: #fff;
+  color: #1900C3;
 }
 
 .pricing-item .pricing-header {
@@ -1308,7 +1308,7 @@ pricing
   font-weight: 500;
   font-size: 17px;
   letter-spacing: 0.25px;
-  color: #1e1e1e;
+  color: #1900C3;
   width: 180px;
   height: 40px;
   line-height: 40px;
@@ -1325,7 +1325,7 @@ pricing
   text-align: center;
   padding-top: 20px;
   padding-bottom: 13px;
-  background: #8261ee;
+  background: #1900C3;
   width: 80%;
   margin: auto;
   margin-bottom: 40px;
@@ -1367,7 +1367,7 @@ pricing
 }
 
 .pricing-item .pricing-body .list li.active {
-  color: #7a7a7a;
+  color: #1900C3;
   text-decoration: none;
 }
 
